@@ -1,4 +1,5 @@
 <img width="1919" height="1179" alt="image" src="https://github.com/user-attachments/assets/3d15788a-0676-4640-ad54-006fe051b290" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ac1988d3-d584-4ed2-9765-3a3ff7c05290" />
 # Solana Wallet Balance Fetcher
 
 A production-ready Python application for fetching Solana wallet balances using the Solana RPC API.
