@@ -81,7 +81,7 @@ A production-ready Python application for fetching Solana wallet balances using 
 
 ```env
 # Required: Solana RPC endpoint
-SOLANA_RPC_URL=https://your-rpc-endpoint.com
+SOLANA_RPC_URL= https://practical-black-wish.solana-mainnet.quiknode.pro/b812c**********e2577649be7510425a9de3e/
 
 # Optional: RPC client configuration
 REQUEST_TIMEOUT=30              # Request timeout in seconds
